@@ -1,7 +1,7 @@
 # Unstable branch of **Project LAnki**: 
 **Disclaimer: Noch nicht (genug) getested!**
 19 September: Alle Vokabeln von 1 - 117 sind da, aber es  
-ist noch nicht fertig (nie gab es mehr zu tun)   
+ist noch nicht fertig (Nie gab es mehr zu tun)   
 ## Bedienung
 Einfach eine Datei mit Unstable_sptember im Namen herunterladen und diese dann auf Anki importieren. 
 Die Ordner sind wie die Struktur in Anki.

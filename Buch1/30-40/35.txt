@@ -1,0 +1,15 @@
+Dido,Didonis:Dido (die Gründerin und Königin Karthagos)
+civis:Bürger
+Aeneas,Aeneae:Äneas (Tojaner und Stammvater der Römer)
+sibi:sich   
+quaerere,quaero,quaesivi,quaesitum:erwerben wollen, suchen, fragen
+suus:sein, ihr
+secum:mit sich, bei sich
+cogitare,cogito:denken, beabsichitigen
+convenire,convenio,conveni:zusammenkommen, zusammenpassen, besuchen
+maritus:Ehemann
+vivere,vivo,vixi:leben
+oportet:es gehört sich, es ist nötig
+te venire oportet:Es ist nötig, dass du kommst. Du musst kommen
+Carthago,Carthaginis:Karthago (Stadt in Nordafrika)
+finis:Ende, Grenze, Ziel, Zweck; Pl. Gebiete

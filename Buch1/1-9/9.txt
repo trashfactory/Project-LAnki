@@ -1,0 +1,21 @@
+familia:Familie
+bene:gut 
+cenare,ceno:essen 
+spectare,specto:betrachten, anschauen, hinsehen 
+unde?:woher? 
+diu:lange (Zeit) 
+dubitare,dubito:zweifeln; zögern (m. Inf.)
+Romanus:Römer, Einwohner Roms
+pugna:Kampf
+pugnare,pugno:kämpfen
+superare,supero:besiegen, überwinden, übertreffen 
+Syria:Syrien 
+patritia:Heimat 
+provincia:Provinz 
+Europa:Europa
+Asia:Asien 
+Africa:Afrika
+dolus:List, Täuschung 
+iniuria:Unrecht, Beleidigung 
+captivus:Kriegsgefangener
+filius:Sohn

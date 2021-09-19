@@ -1,0 +1,17 @@
+discipulus:Schüler
+libenter:gerne
+ingenium:Begabung, Talent, Verstand
+consilium:Beratung, Beschluss, Plan, Rat 
+forum:Forum, Marktplatz 
+aedificum:Gebäude 
+curia:Kurie (Sitzungsgebäude des Senats)
+templum:Tempel
+dea:Göttin
+Saturnis:Saturn (Gott der Saat und der Zeit)
+Concordia:Concordia (Göttin der Eintracht) 
+aedificare,aedifico:bauen
+porta:Tor
+beneficium:Wohltat
+frumentum:Getreide
+donum:Geschenke
+verbum:Wort, Äußerung 

@@ -1,0 +1,14 @@
+educere,educo:herausführen
+consistere,consisto,constiti:stehenbleiben, haltmachen, sich aufstellen 
+deducere,deduco,deduxi,deductum:wegführen, hinführen 
+adducere,adduco,adduxi,adductum:heranführen, veranlassen
+bibere,bibo,bibi:trinken 
+portare,poto:bringen, tragen 
+vinum:Wein
+auxilium:Hilfe
+adesse,adsum:da sein, helfen 
+amico adesse:dem Freund helfen
+deesse,desum,defui:abwesend sein, fehlen
+mortuus,mortua,mortuum:gestorben, tot
+plenus,plena,plenum:voll   
+posse,possum,potui:können

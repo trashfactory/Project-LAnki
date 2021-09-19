@@ -1,0 +1,17 @@
+senator,senatoris:Senator
+mercator,mercatoris:Kaufmann, Händler
+vendere,vendo:verkaufen
+clarus:klar, hell berühmt 
+imperator,imperatoris:Befehlshaber, Feldherr, Kaiser
+Titus:Titus (röm. Kaiser 79-81 n. Chr)
+Pompeianus,Pompeiana,Pompeianum:popejanisch; Subst. Pompejaner, Einwohner Pompejis
+honor,honoris:Ehre, Ehrenamt
+in honore esse:in Ehre stehen, angesehen sein
+hodie:heute
+tantus,tanta,tantum:so groß, so viel
+creare,creo:erschaffen, wählen
+petere,peto,petivi,petitum:aufsuchen, (er)streben, bitten, verlangen
+licet:es ist erlaubt; es ist möglich
+uxor,uxoris:Ehefrau
+apud:bei
+apud amicos:bei den Freunden

@@ -1,0 +1,15 @@
+exspectare,exspecto:warten (auf), erwarten
+venire,venio,veni,ventum:kommen 
+audire,audio:hören
+nihil:nichts
+ludus:Spiel; Schule
+scire,scio:wissen, kennen, verstehen 
+Creta:Kreta (Insel im Mittelmeer)
+desiderare,desidero:sich sehen nach, vermissen 
+patriam desiderare:sich nach der Heimat sehnen
+ubi?:wo?
+nescire,nescio:nicht wissen, nicht kennen, nicht verstehen 
+Sicilia:Sizilien (Insel im Mittelmeer)
+Aetna:Ätna (Vulkan auf Sizilien)
+Vulcanus:Vulkan(us) (Gott des Feuers)
+habitare,habito:wohnen, bewohnen

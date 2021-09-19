@@ -1,0 +1,19 @@
+carrus:Wagen, Karren
+stare,sto,steti:stehen
+dicere,dico,dixi,dictum:sagen, sprechen [m. dopp. Akk. nennen, bezeichnen (als)] 
+nuntius:Bote, Nachricht
+mittere,mitto,misi,missum:(los)lassen, schicken, werfen
+scribere,scribo,scripsi,scriptum:schreiben, beschreiben
+relinquere,relinquo,reliqui,relictum:verlassen, zurücklassen
+ducere,duco,duxi,ductum:führen, ziehen [m. dopp. Akk. halten für]
+trahere,traho,traxi:schleppen, ziehen
+ostendere,ostendo,ostendi:zeigen, erklären
+oppidum:Stadt (Kleinstadt)
+Campania:Kampanien (fruchtbare Landschaft südlich von Rom)
+Vesuvius:Vesuv (Vulkan in Kampanien)
+a,ab:von, von ... her
+ab oppido venire:von der Stadt kommen
+a basilica venire:von der Markthalle kommen
+per:durch, hindurch
+per silvam:durch den Wald
+vinea:Weinberg, Weinstock

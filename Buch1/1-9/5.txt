@@ -1,0 +1,15 @@
+sonus:Ton, Klang, Geräusch 
+latere,lateo:verborgen sein 
+subito:plötzlich 
+gladius:Schwert 
+torquere,torqueo,torsi,tortum:drehen, quälen 
+sceleratus:Verbrecher 
+flere,fleo,flevi:weinen, beweinen 
+placere,placeo:gefallen 
+cui?:wem? 
+statim:sofort 
+etiam:auch, sogar 
+iterum:wiederum, zum Zweiten Mal 
+itaque:deshalb 
+tantum:nur 
+linguam tantum servos terret.:Nur die Sprache erschreckt die Sklaven.

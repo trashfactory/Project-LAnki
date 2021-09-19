@@ -1,0 +1,13 @@
+sol,solis:Sonne
+regio,regionis:Gebiet, Gegend, Richtung
+natio,nationis:Volk, Volksstamm 
+homo,hominis:Mensch
+multitudo,multitudinis:große Zahl, Menge
+mons,montis:Berg
+fons,fontis:Quelle, Ursprung
+magnitudo,magnitudinis:Größe
+hora:Stunde
+surgere,surgo,surrexi:aufrichten, sich erheben, aufstehen
+nisi:wenn nicht
+amittere,amitto,amisi:aufgeben, verlieren
+leo,leonis:Löwe

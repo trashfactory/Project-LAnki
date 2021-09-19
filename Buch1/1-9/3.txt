@@ -1,0 +1,13 @@
+hic:hier 
+dominus:Herr
+ibi:dort 
+sedere,sedo,sedi:sitzen 
+sed:aber, sondern 
+respondere,respondeo,respondi,responsum:antworten 
+quis?:wer? 
+augere,augeo,auxi,auctum:vergrößern, vermehren 
+neque,nec:und nicht, auch nicht  
+neque...neque:weder ... noch 
+terrere,terreo,terrui,territum:erschrecken 
+lingua:Sprache, Rede
+nam:denn, nämlich 

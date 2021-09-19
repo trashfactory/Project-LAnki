@@ -1,0 +1,14 @@
+gaudere,gaudeo:sich freuen 
+amicus:Freund
+docere,doceo,docui,doctum:lehren, unterrichten 
+studere,studeo:sich bemühen, studieren 
+tabula:(Schreib-)Tafel, Gemälde
+tenere,teneo:halten, festhalten, besitzen 
+praebere,praebeo:geben, hinhalten 
+iam:schon, bereits; nun
+primo:zuerst
+tum:da, dann, darauf, damals 
+recte:richtig, zu Recht 
+non iam:nicht mehr
+saepe:oft 
+numquam:niemals 

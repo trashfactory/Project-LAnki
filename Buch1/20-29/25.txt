@@ -1,0 +1,16 @@
+amphitheatrum:Amphitheater
+propter:wegen
+propter amorem:wegen der Liebe
+gladiator,gladiatoris:Gladiator
+urbs,urbis:Stadt; die Stadt Rom
+pars,partis:Teile, Seite
+victor,victoris:Sieger
+exercere,exerceo:üben, trainieren, quälen
+mors,mortis:Tod
+dolor,doloris:Schmerz
+vel:oder
+aqua vel vinum:Wasser oder Wein
+negotium:Aufgabe, Geschäft; Angelegenheit
+interficere,interficio,interfeci,interfectum:töten, vernichten
+annus:Jahr
+virtus,virtutis:Tapferkeit, Tüchtigkeit, Leistung

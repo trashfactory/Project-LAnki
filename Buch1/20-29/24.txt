@@ -1,0 +1,16 @@
+antiquus:alt, altertümlich
+Iuppiter,Iovis:Jupiter (höchster Gott der Römer)
+caelum:Himmel
+terra:Erde, Land
+Minerva:Minerva (Göttin der Weisheit)
+Diana:Diana (Göttin der Jagd)
+bestia:(wildes) Tier
+Neptunus:Neptun (Gott des Meeres)
+Mercurius:Merkur (Götterbote)
+ceteri:die Übrigen
+dare,do,dedi,datum:geben
+varius:bunt, verschieden, vielfältig
+servare,servo:bewahren, retten; beobachten
+solum:nur 
+nuntiare,nuntio:melden
+existimare,existimo:meinen, einschätzen

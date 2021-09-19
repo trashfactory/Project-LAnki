@@ -1,0 +1,16 @@
+mulier,mulieris:Frau
+quia:weil
+se:sich
+quod:weil; dass
+dum:während, solange, bis
+animus:Geist, Mut, Gesinnung
+in animo habere:im Sinn haben, vorhaben
+velle,volo,volui:wollen
+amor,amoris:Liebe
+soror,sororis:Schwester
+si:wenn, falls
+fur,furis:Dieb
+clamor,clamoris:Geschrei, Lärm 
+pecunia:Geld, Vermögen
+quamquam:obwohl 
+liberare,libero:befreien, freilassen

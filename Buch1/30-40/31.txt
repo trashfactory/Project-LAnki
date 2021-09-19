@@ -1,0 +1,11 @@
+monumentum:Denkmal
+sentire,sentio,sensi:fühlen, meinen, wahrnehmen
+ora:Küste
+studium:Beschäftigung, Engagement, Interesse
+statue:Statue
+ecce:Schaue! Sieh da! Seht da!
+Hercules:Herkules (berühmtester Held der griechischen Sagenwelt)
+etsi:auch wenn, obwohl
+occidere,occido,occidi,occisum:(zu Boden) fallen, umkommen, untergehen. niederschlagen, töten
+enim:nämlich, denn (nachgestellt)
+praestare,praesto,praesti:gewähren, leisten, zeigen [m. Dat. übertreffen]

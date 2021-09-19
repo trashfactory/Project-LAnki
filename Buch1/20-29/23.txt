@@ -1,0 +1,17 @@
+salutare,saluto:(be)grüßen
+salve!,salvete!:sei gegrüßt! seid gegrüßt
+frater,fratris:Bruder
+pater,patris:Vater
+mater,matris:Mutter
+tam:so
+tam...quam:so ... wie
+Capua non tam pulchra est quam Roma:Capua ist nicht so schön, wie Rom
+civitas,civitatis:Gemeinde, Staat; das Bürgerrecht
+Caesar,Caesaris:Cäsar, Kaiser
+libertas,libertatis:Freiheit
+Vespasianus:Vespasian (röm. Kaiser 69-79 n. Chr.)
+potestas,potestatis:(Amts-)Gewalt, Macht
+voluntas,voluntatis:Wille, Absicht
+carus:lieb, teuer, wertvoll
+heri:gestern
+servitus,servitutis:Sklaverei 

@@ -1,0 +1,14 @@
+locus:Ort, Platz, Stelle
+unus:einer, ein einziger
+unus e/ex:einer von
+fortis:kräftig, tapfer
+tristis:traurig, unfreundlich
+defendere,defendo,defendi,defensum:abwehren, verteidigen (vor / gegen)
+Amulius:Armulius (König von Alba, Bruder des Numitor)
+accusare,accuso:anklagen, beschuldigen
+turpis:unanständig, hässlich, schändlich
+postquam:nachdem, als
+Numitor,Numitoris:Numitor (König von Alba, Großvater von Romulus und Remus)
+dulcis:angenehm, süß
+crudelis:grausam
+omnis:jeder, ganz; Pl. alle

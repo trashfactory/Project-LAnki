@@ -1,0 +1,12 @@
+puella:Mädchen, Freundin 
+serva:Sklavin, Dienerin 
+silva:Wald
+via:Weg, Straße
+villa:Haus, Landhaus 
+avus:Großvater
+campus:Feld, freier Platz 
+equus:Pferd
+murus:Mauer
+servus:Sklave, Diener
+vicus:Dorf, Gasse
+et:und, auch  

@@ -1,0 +1,14 @@
+domina:Herrin, Dame
+rogare,rogo:bitten, fragen 
+amare,amo:lieben 
+parare,paro:(vor)bereiten, vorhaben (m. Inf.); erwerben 
+laborare,laboro:arbeiten, sich anstrengen 
+vocare,voco:nennen, benennen, berufen 
+properare,propero:eilen, sich beeilen 
+cena:Mahlzeit, Essen 
+filia:Tochter
+intrare,intro:betreten, eintreten 
+mensa:(Ess-)Tisch 
+ornare,orno:ausstatten, schmücken 
+sic:so 
+delectare,delecto:erfreuen, unterhalten 

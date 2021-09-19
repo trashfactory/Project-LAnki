@@ -1,0 +1,19 @@
+imperium:Befehl, Herrschaft, Reich
+novus,nova,novum:neu, ungewöhnlich
+-que:und (angehängt)
+servi servaeque:Sklaven und Sklavinnen 
+multus,multa,multum:viel
+multi,multae,multa:viele
+de:von, von ... her, von ... weg, von ...herab; über
+de templo:vom Tempel herab
+cuncti,cunctae,cuncta:alle (zusammen)
+Romanus,Romana,Romanum:römisch
+bonus,bona,bonum:gut, tüchtig
+magnus,magna,magnum:groß, bedeutend
+ut:wie
+laudare,laudo:loben
+tuus,tua,tuum:dein
+narrare,narro:erzählen
+de ludo narrare:vom Spiel/über das Spiel erzählen
+meus,mea,meum:mein
+parvus,parva,parvum:klein, gering

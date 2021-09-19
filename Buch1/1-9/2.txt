@@ -1,0 +1,16 @@
+esse,sum,fui:sein, sich befinden 
+est:er (sie, es) ist 
+sunt:sie sind 
+ridere,rideo,risi,risum:lachen, auslachen 
+non:nicht 
+cur?:warum?  
+parere:gehorchen 
+monere,moneo,monui,monitum:mahnen, ermahnen 
+debere,debeo,debui,debitum:müssen, sollen 
+quid?:was? 
+timere:fürchten, Angst haben 
+oculus:Auge 
+dolere:schmerzen, wehtun 
+homilia serva:die Sklavin Homilia 
+nunc:nun, jetzt 
+tacere:schweigen, verschweigen 

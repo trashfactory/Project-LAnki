@@ -1,0 +1,19 @@
+ego:ich (betont)
+tu:du (betont)
+-ne:Partikel im dir. Fragesatz (unübersetzt)
+Videsne_aedificum?:Siehst du das Gebäude?
+vos:ihr (betont)
+mihi:mir
+me:mich
+tecum:mit dir 
+nos:wir (betont)
+vobiscum:mit euch
+nos:uns 
+tibi:dir
+nobis:uns
+vobis,vos:euch
+clamare,clamo:laufen, rufen, schreien
+errare, erro:umherirren, (sich) irren
+invenire,invenio,inveni,inventum:finden, erfinden
+te:dich
+sine me:ohne mich

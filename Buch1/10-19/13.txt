@@ -1,0 +1,25 @@
+basilica:Markthalle, Gerichtshalle
+ad:zu, bei, nach, an
+ad basilicam esse:bei der Markthalle sein
+ad basilicam properare:zu der Markthalle eilen 
+ante:vor
+ante villam; ante cenam:vor dem Landhaus; nach dem Essen 
+umbra:Schatten
+post:hinter, nach
+post villam; post cenam:hinter dem Landhaus, nach dem Essen
+ornamentum:Schmuck(stück)
+cum:mit, zusammen mit 
+cum amico:mit dem Freund 
+pretium:Preis, Wert
+probare,probo:prüfe, beweisen, für gut befinden
+indicare,indico:anzeigen, melden
+sine:ohne
+sine amico:ohne den Freund
+e,ex:aus, von ... her 
+e patria:aus der Heimat
+ex aedifico:aus dem Gebäude
+in:in, an, auf, bei (wo?) [Präp. m. Abl]
+in aqua:im Wasser
+manere,maneo,mansi:bleiben, (er)warten 
+in:in (... hinein), nach (wohin?); gegen [Präp. m. Akk.]
+in aquam:ins Wasser

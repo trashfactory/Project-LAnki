@@ -1,0 +1,6 @@
+avunculus:Onkel
+triclinium:Esszimmer, Triklinium 
+columna:Säule
+spectaculum:Schauspiel
+observare,observo:beobachten
+fuga salutem petere:In der Flucht die Rettung aufsuchen, die Flucht ergreifen

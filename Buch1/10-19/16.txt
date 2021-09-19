@@ -1,0 +1,13 @@
+vir,viri:Mann
+puer,pueri:Junge
+ager, agri:Acker, Feld, Gebiet
+magister, magistri:Lehrer, Meister
+imperare,impero:befehlen, herrschen (über)
+populis imperare:über (die) Völker herrschen
+pulcher,pulchra,pulchrum:schön
+niger,nigra,nigrum:schwarz, dunkel
+liber,libera,liberum:frei
+miser,misera,miserum:arm, erbärmlich, unglücklich
+vita:Leben
+noster,nostra,nostrum:unser
+vester,vestra,vestrum:euer

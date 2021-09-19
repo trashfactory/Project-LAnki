@@ -1,0 +1,15 @@
+cibis:Nahrung, Speise, Futter
+habere,habeo:haben, halten 
+complere,compleo,complevi:anfüllen, auffüllen 
+copia:Menge, Vorrat, Möglichkeit; Pl.Truppen
+aqua:Wasser
+ventus:Wind 
+delere,deleo,delevi:zerstören, vernichten
+adhuc:bis jetzt, noch
+populus:Volk
+Aeolus:Äolus (Herr über die Winde) 
+deus:Gott, Gottheit
+profecto:sicherlich, tatsächlich 
+gratia:Dank
+gratiam habere:danken
+semper:immer     

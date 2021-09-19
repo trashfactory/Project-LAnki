@@ -3,7 +3,8 @@
 19 September: Alle Vokabeln von 1 - 117 sind da, aber es  
 es ist noch nicht fertig (nie gab es mehr zu tun)   
 ## Bedienung
-Einfach eine der Datein herunterladen und dann auf Anki importieren. 
+Einfach eine der Datein (außer README.md) herunterladen und dann auf Anki importieren. 
+Die Ordner sind wie die Struktur in Anki.
 **Warnung: Alle Daten von ihrem jetzigen Profil gehen verloren. Sie können aber ein neues Profil erstellen (zumindest in der Desktop Version)
 Das heißt, wenn Sie sich dazu Entscheiden, später auf den Stable branch zu wechseln, der alle Fehler behebt, gehen dann auch ihre Daten verloren.** 
 ## Meine Einschätzung:

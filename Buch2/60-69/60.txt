@@ -1,0 +1,24 @@
+senex,senis:der Greis, der alte Mann
+vestis, vestis:die Kleidung, Pl. die Kleider
+neglegere,neglego,neglexi,neglectum:nicht (be)achten, vernachlässigen
+iuvare, iuvo,iuvi:unterstützen, helfen; erfreuen
+quaerere ex/de:jdn. fragen
+e mercatore pretium quaerere:den Händler nach dem Preis fragen
+providere,provideo,providi,provisum:m. Akk. vorhersehen; [m. Dat. sorgen für]
+periculum providere:eine Gefahr vorhersehen
+civibus providere:für die Bürger sorgen
+praeesse,praesum,praefui:leiten, an der Spitze stehen
+Imperator militibus praeest:Der Feldherr steht an der Spitze der Soldaten.
+pro:vor; anstelle von, für
+promo domo sedere:vor dem Haus sitzen
+pro amico respondere:für den Freund antworten, anstelle des Freundes antworten
+parcere,parco,peperci:schonen, verschonen
+captivis parcere:die Kriegsgefangenen (ver)schonen
+consulere,consulo,consului,consultum:(m. Akk. um Rat fragen);[m. Dat. sorgen für];{+in m. Akk. vorgehen gegen}
+deos consulere:die Götter um Rat fragen
+sociis consulere:für die Verbündeten sorgen
+in hostes consulere:gegen die Feinde vorgehen
+plebs, plebis:das (nicht adelige, einfache) Volk
+persuadere,persuadeo,persuasi,persuasum:überreden, (m. Acl.) überzeugen
+senatoribus persuadere:die Senatoren überzeugen
+tribunus:der Tribun (führender Vertreter eines Stadtbezirks, einer Legion oder der Plebs)

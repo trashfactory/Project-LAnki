@@ -1,0 +1,19 @@
+quindecim:fünfzehn
+caput,capitis:der Kopf, die Hauptstadt
+caput mihi dolet.:der Kopf tut mir weh.
+Roma caput imperii est:Rom ist die Hauptstadt des Reiches
+animal,animalis:das Lebewesen, das Tier
+sexaginta:sechzig
+numerus:die Zahl, die Menge
+pronuntiare,pronuntio:bekannt geben, vortragen
+trecenti:dreihundert
+Tiberis:der Tiber (Fluss durch Rom)
+centum:hundert
+ducenti:zweihundert
+moenia,moenium:die Mauern, die Stadtmauern
+mille:tausend
+milia,milium:tausend, Tausende
+turris:der Turm
+ignis:das Feuer
+navis:das Schiff
+mare,maris:das Meer

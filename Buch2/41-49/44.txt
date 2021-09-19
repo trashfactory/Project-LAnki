@@ -1,0 +1,30 @@
+res,rei:Angelegenheit, Ding, Sache
+causa:Sache, Ursache, Grund; Prozess
+medius:der mittlere, in der Mitte (von)
+media in turba:mitten in der Menge
+Lucretia:Lukretia (Heldin der röm. Frühgeschichte)
+res publica:Staat
+pernicies,perniciei:Verderben, Vernichtung
+res adversae:Unglück
+res futurae:Zukunft
+res secundae:Glück 
+spes,spei:Erwartung, Hoffnung
+dies,diei:Tag
+felix,felicis:erfolgreich, glückbringend, glücklich
+vetus,veteris:alt
+dives,divitis:reich
+pauper,pauperis:arm
+auctor,auctoris:der Urheber, der Gründer, der Schriftsteller, der Verfasser
+nonnulli:einige, manche
+sapiens:klug, weise
+Cassandra:Kassandra (Tochter des Priamos)
+Apollo,Apollinis:Apollon (Gott der Künste)
+omnia,omnium:alles
+omnia posse:alles können
+liber,libri:das Buch
+legere,lego,legi,lectum:lesen; auswählen
+Troia:Troja (Stadt in Kleinasien)
+multa,orum:viel(es)
+multa scire:viel(es) wissen
+diligens,diligentis:gewissenhaft, sorgfältig
+intus:im Inneren, innen

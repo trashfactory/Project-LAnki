@@ -1,0 +1,16 @@
+tempus,temporis:die (günstige) Zeit, die Umstände
+nomen,nominis:der Name
+gens,gentis:der Familienverband, der Stamm, das Volk
+sanguis,sanguinis:das Blut
+vulnus,vulneris:die Wunde, der (milit.) Verlust
+pes,pedis:der Fuß
+pectus,pectoris:die Brust, das Herz
+domus:das Haus
+corpus,corporis:der Körper, der Leichnam 
+rapere,rapio,rapui,raptum:wegführen, rauben, wegreißen
+scelus,sceleris:das Verbrechen
+crimen,criminis:das Verbrechen, der Vorwurf, die Beschuldigung
+accidere,accido,accidi:geschehen, sich ereignen
+quot?:wie viele?
+quot senatores adsunt:Wie viele Senatoren sind da?
+negare,nego:leugnen, verneinen, verweigern

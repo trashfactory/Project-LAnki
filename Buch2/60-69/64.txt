@@ -1,0 +1,15 @@
+agmen,agminis :der Heereszug
+Poenus:punisch, karthagisch; Subst. der Punier, der Karthager
+oratio,orationis:die Rede
+iter,itineris:die Reise, der Marsch, der Weg
+superesse,supersum,superfui :überleben, übrig sein
+insidiae,insidiarum :die Falle, das Attentat, die Hinterlist
+conficere,conficio,confeci,confectum:fertig machen, beenden
+usque ad:bis (zu)
+usque ad campum ire :bis zum Feld gehen
+subire,subeo,subii:auf sich nehmen, herangehen
+Alpes,Alpium:die Alpen
+transire,transeo,transii,transitum:durchqueren, hinübergehen, überschreiten
+expellere,expello,expuli,expulsum :vertreiben, verbannen
+aut :oder
+procedere,procedo,processo,processum:(vorwärts)gehen, vorrücken

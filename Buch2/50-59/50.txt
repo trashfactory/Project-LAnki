@@ -1,0 +1,13 @@
+totus:ganz, gesamt
+species,speciei:der Anblick, das Aussehen, der Schein
+complures,complura:mehrere
+Graecia:Griechenland
+circiter:ungefähr
+littera:der Buchstabe; Pl. der Brief; die Literatur, die Wissenschaft
+lex,legis:das Gesetz, die Bedingung
+impedire,impedio:hindern, verhindern
+damnare,damno:verurteilen (wegen)
+furem criminis damnare:einen Dieb wegen eines Verbrechens verurteilen
+poena:die Strafe
+ira:der Zorn, die Wut
+remanere,remaneo,remansi:(zurück)bleiben

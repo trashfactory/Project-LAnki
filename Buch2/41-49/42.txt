@@ -1,0 +1,30 @@
+gerere,gero,gessi,gestum:ausführen, führen, tragen
+bellum gerere:Krieg führen
+Tatius:Tatius (König der Sabiner)
+stultus:dumm
+ergo:also, deshalb
+Spurius Tarpeius:Spurius Tarpeius (römischer Befehlshaber)
+Capitolium:das Kapitol (bedeutendster der sieben Hügel Roms)
+resistere,resisto,restiti:stehenbleiben; Widerstand leisten
+praemium:Belohnung, Lohn
+appetere,appeto,appetivi:erstreben, haben wollen; angreifen
+Tarpeia:Tarpeia (Tochter des Spurius Tarpeius)
+concedere,concedo,concessi:erlauen, nachgeben, zugestehen
+aureus:golden, ,aus Gold
+ire,eo,ii:gehen
+iudex,iudicis:der Richter
+forma:die Form
+Olympus:der Olymp (Götterberg in Makedonien)
+adire,adeo,adii:herantreten (an), bitten, aufsuchen
+senatorem adire:an einen Senator herantreten, einen Senator bitten 
+circum Maximum adire:den Circus Maximus aufzusuchen
+inire,ineo,inii:hineingehen (in), beginnen
+exire,exeo,exii,exitum:herausgehen, hinausgehen; zu Ende gehen
+nullus:kein
+praeterire,praetereo,praeterii:vorbeigehen (an), übergehen
+castra praeterire:am Lager vorbeigehen
+factum praeterire:eine Tatsache übergehen
+Venus,Veneris:Venus (Göttin der Liebe)
+femina:die Frau
+abire,abeo,abii:weggehen
+denique:schließlich, zuletzt

@@ -5,6 +5,8 @@ ist noch nicht fertig (Nie gab es mehr zu tun)
 ## Bedienung
 Einfach eine Datei mit Unstable_sptember im Namen herunterladen und diese dann auf Anki importieren. 
 Die Ordner sind wie die Struktur in Anki.
+Falls nur 20 Karten erscheinen, liegt es daran, dass Sie ein Tagesmaximum von 20 Karten am Tag haben.  
+Normalerweise sollten es 1928 sein.
 **Warnung: Alle Daten von ihrem jetzigen Profil gehen verloren. Sie können aber ein neues Profil erstellen (zumindest in der Desktop Version)
 Das heißt, wenn Sie sich dazu Entscheiden, später auf den Stable branch zu wechseln, der alle Fehler behebt, gehen dann auch ihre Daten verloren.** 
 ## Meine Einschätzung:

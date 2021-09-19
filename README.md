@@ -4,7 +4,7 @@
 es ist noch nicht fertig (nie gab es mehr zu tun)   
 ## Bedienung
 Einfach eine der Datein herunterladen und dann auf Anki importieren. 
-**Warnung: Alle Daten von ihrem jetzigen Profil geht verloren. Sie können aber ein neues Profil erstellen (zumindest in der Desktop Version)
+**Warnung: Alle Daten von ihrem jetzigen Profil gehen verloren. Sie können aber ein neues Profil erstellen (zumindest in der Desktop Version)
 Das heißt, wenn Sie sich dazu Entscheiden, später auf den Stable branch zu wechseln, der alle Fehler behebt, gehen dann auch ihre Daten verloren.** 
 ## Meine Einschätzung:
 Es ist *noch* eine unsaubere Sammlung, die überhaubt nicht geprüft wurde. Alle Vokabeln wurden aus gmlt kopiert und vor allem die Lateinischen sind in Sachen Gestalt noch nicht

@@ -1,0 +1,16 @@
+memorare,memoro:erwähnen, sagen
+suspicari,suspicor,suspicatus sum:vermuten
+arbitrari,arbitror,arbitratus sum:glauben, meinen
+precari,precor,precatus sum:bitten
+morari,moror,moratus sum:(sich) aufhalten
+vero:aber, in der Tat, wirklich
+fateri,fateor,fassus sum:bekennen, gestehen
+procul,procul a:von fern, weit weg, [fern von]
+tueri,tueor:betrachten, schützen, (milit.)sichern
+naturam tueri:die Natur betrachten
+fines tueri:die Grenzen (das Gebiet) sichern
+polliceri,polliceor,pollicitus sum:versprechen
+reri,reor,ratus sum:meinen
+vereri,vereor,veritus sum:fürchten, sich scheuen; verehren
+periculum verior.:Ich fürchte die Gefahr.
+deos vereor.:Ich verehre die Götter.

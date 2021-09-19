@@ -1,0 +1,18 @@
+maior,maius:größer
+multo:(um) viel
+multo magis:(um) viel mehr
+plus,pluris:mehr
+longus:lang, weit
+plurimi:die meisten, sehr viele
+aedis:der Tempel, Pl. das Haus
+extra:außerhalb (von)
+minimus:der kleinste, der geringste
+optimus:der beste, sehr gut
+artifex,artificis:der/die Künstler(in)
+minor,minus:kleiner, geringer
+comparare,comparo:vergleichen
+aurum:das Gold
+melior,melius:besser
+opus,operis:die Arbeit, das Werk
+pessimus:der schlechteste, der schlimmste
+peior,peius:schlechter, schlimmer

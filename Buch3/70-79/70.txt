@@ -1,0 +1,14 @@
+ver,veris:der Frühling
+saevus:schrecklich, wild, wütend
+Philippus:Phillip ||. (König von Makedonien, Vater Alexander des Großen)
+Macedones,Macedonum:die Makedonen
+conspicere,conspicio,conspexi,conspectum:erblicken
+convocare,convoco:zusammenrufen, versammeln
+noscere,nosco,novi,notum:erkennen, kennenlernen
+Alexander,Alexandri:Alexander der Große (König von Makedonien)
+omnino:insgesamt, überhaupt, völlig
+collocare,colloco:aufstellen, unterbringen
+claudere,claudo,clausi,clausum:schließen, abschließen, einschließen
+fiducia:das Vertrauen
+fiducia sui:das Selbstvertrauen
+ruere,ruo,rui:stürzen, eilen, stürmen

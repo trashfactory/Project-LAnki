@@ -1,0 +1,14 @@
+non dubito,quin:Ich zweifle nicht (daran), dass
+rus,ruris:das Feld, das Land (im Gegensatz zur Stadt), das Landgut
+ruri:auf dem Land
+utilis,utile:nützlich
+prope:nahe bei, in der Nähe von
+locare,loco:aufstellen, setzen; vermieten
+moenia locare:Stadtmauern errichten
+domum locare:ein haus vermieten
+abesse,absum,afui:entfernt sein, abwesend sein, fehlen
+ab urbe abesse:von der Stadt entfernt sein
+multa mihi absunt.:Mir fehlt viel(es).
+non multum abest,quin:es fehlt nicht viel, dass
+quasi:gleichsam
+monstrum quasi:gleichsam ein Ungeheuer
